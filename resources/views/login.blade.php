@@ -10,7 +10,7 @@
         <link rel="stylesheet" type="text/css" href="mdb/css/mdb.min.css">
         <link rel="stylesheet" type="text/css" href="libs/font-awesome-4.7.0/css/font-awesome.min.css">
         {{-- estilos de la vista --}}
-        <link rel="stylesheet" type="text/css" href="css/login.css">
+        <link rel="stylesheet" type="text/css" href="packages/css/index.css">
     </head>
     <body>
 
