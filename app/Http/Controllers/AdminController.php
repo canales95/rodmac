@@ -11,6 +11,16 @@ class AdminController extends Controller
       return view('rod-index');
     }
 
+    public function viewLogin()
+    {
+      return view('rod-login');
+    }
+
+    public function viewContent()
+    {
+      return view('rod-contenido');
+    }
+
     public function FunctionName()
     {
       # code...
